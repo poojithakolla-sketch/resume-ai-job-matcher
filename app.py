@@ -64,10 +64,28 @@ st.markdown("""
     margin-bottom: 30px;
 }
 
-/* Headings */
+/* Headings and Text */
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5, h6 {
     color: #101828 !important;
+}
+
+[data-testid="stMarkdownContainer"] p {
+    color: #344054 !important;
+}
+
+[data-testid="stMarkdownContainer"] strong {
+    color: #101828 !important;
+}
+
+[data-testid="stTextArea"] label {
+    color: #101828 !important;
+}
+
+[data-testid="stTextArea"] textarea {
+    background-color: #ffffff !important;
+    color: #101828 !important;
+    caret-color: #101828 !important;
 }
 
 /* Metric Cards */
