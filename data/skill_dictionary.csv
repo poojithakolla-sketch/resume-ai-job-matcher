@@ -1,0 +1,31 @@
+skill,category
+Python,Programming
+C,Programming
+C++,Programming
+Java,Programming
+JavaScript,Programming
+SQL,Database
+MySQL,Database
+MongoDB,Database
+Excel,Tools
+Power BI,Tools
+Tableau,Tools
+Pandas,Data Science
+NumPy,Data Science
+Matplotlib,Data Science
+Statistics,Data Science
+Machine Learning,Machine Learning
+Deep Learning,Machine Learning
+Scikit-learn,Machine Learning
+TensorFlow,Machine Learning
+PyTorch,Machine Learning
+NLP,AI
+Transformers,AI
+Hugging Face,AI
+OpenCV,Computer Vision
+CNN,Computer Vision
+YOLO,Computer Vision
+FastAPI,Backend
+Docker,DevOps
+Git,Tools
+GitHub,Tools
